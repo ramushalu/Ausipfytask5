@@ -1,0 +1,4 @@
+Year,Actual_Content_Count,Linear_Regression_Prediction,Random_Forest_Prediction
+2019,2016,1094.0,1408.0
+2020,1879,1225.0,1408.0
+2021,1498,1356.0,1408.0
